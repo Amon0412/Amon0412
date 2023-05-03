@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Gabriele
 - 👀 I’m interested in technology and sports
-- 🌱 I’m currently learning figma
+- 🌱 I’m currently learning python
 - 📫 How to reach me: email me at gabrielechiarenza0412@gmail.com
